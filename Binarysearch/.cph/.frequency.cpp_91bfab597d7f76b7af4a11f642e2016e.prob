@@ -1,0 +1,1 @@
+{"name":"Local: frequency","url":"c:\\Users\\Rishabh\\Desktop\\dev\\Levelup\\Binarysearch\\frequency.cpp","tests":[{"id":1676901659631,"input":"7\n6 11 11 13 10 12 12 \n1\n12\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rishabh\\Desktop\\dev\\Levelup\\Binarysearch\\frequency.cpp","group":"local","local":true}
